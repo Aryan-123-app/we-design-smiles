@@ -3,3 +3,5 @@
 /out/
 .env*.local
 *.tsbuildinfo
+*.mp4
+frames_*/
